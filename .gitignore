@@ -1,0 +1,7 @@
+raylib/
+.opencode/
+*.exe
+*.o
+*.obj
+output.txt
+error.txt
